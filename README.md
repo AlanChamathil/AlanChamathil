@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I’m Alan 👋
 
-<!--
-**AlanChamathil/AlanChamathil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Data Science Graduate (Distinction)  
+💻 Aspiring Data Scientist  
+📍 United Kingdom  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m a Data Science graduate with a strong passion for solving real-world problems using data.
+
+I specialise in transforming messy, unstructured datasets into meaningful insights through data analysis, engineering, and machine learning. My work focuses on building end-to-end data solutions — from data cleaning and exploration to modelling and interpretation.
+
+My Master’s thesis involved working with highly unstructured natural language data, where I developed an automated approach to convert it into a structured dataset suitable for analysis and modelling.
+
+I’m currently seeking opportunities in data science where I can apply my skills, grow as a professional, and contribute to impactful, data-driven projects.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Tools**  
+- Python
+- Pytorch  
+- SQL  
+- Pandas  
+- NumPy  
+- Scikit-learn  
+
+**Data Science Skills**  
+- Exploratory Data Analysis (EDA)  
+- Data Cleaning & Preprocessing  
+- Machine Learning  
+- Statistical Analysis  
+- Data Visualisation  
+
+---
+
